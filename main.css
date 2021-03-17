@@ -1,0 +1,12 @@
+body {
+    background: antiquewhite;
+}
+.front {
+    text-align: center;
+}
+
+.text-content2 {
+    border: 1px solid black;
+    width: 200px;
+    margin: 0 0 0 700px;
+}
